@@ -1,6 +1,16 @@
 # 👋 Hi, I'm Nigel Ross
 
-I’m a backend-focused engineer who builds infrastructure tools that save hours of manual work and wrangle data.
+I'm a backend engineer focused on infrastructure automation, data syncing, and developer tooling.  
+My code turns multi-hour processes into automated workflows you can trust and observe.
+
+---
+
+## 🔧 What I Build
+
+- **Go + Python CLI tools** for syncing, parsing, and generating structured data
+- **CI/CD pipelines** for scheduled and event-driven jobs
+- **Credential/token services** to eliminate `.env` sprawl and increase security
+- **System observability tools** that turn raw logs into metrics and summaries
 
 ### 🔧 Projects
 - **[meraki_netbox_sync](https://github.com/NTRCodes/meraki_netbox):** Sync Meraki network and device data into NetBox. Uses Python, GitLab CI, and scheduled jobs.
