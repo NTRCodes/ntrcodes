@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Nigel Ross
 
-<!--
-**NTRCodes/ntrcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend engineer who builds automation tools that move real-world work forward.
 
-Here are some ideas to get you started:
+### 🔧 Projects
+- **[meraki_netbox_sync](https://github.com/yourusername/meraki_netbox_sync):** Sync Meraki network and device data into NetBox. Uses Python, GitLab CI, and scheduled jobs.
+- **[sync-log-collector](https://github.com/yourusername/sync-log-collector):** In progress – Go-based CLI that fetches GitLab job logs, parses structured sync summaries, and outputs JSONL or SQLite for reporting.
+- **[token-service](https://github.com/yourusername/token-service):** In progress – Go microservice to centrally manage credentials across CLI tools and internal bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools I Use
+Go, Python, FastAPI, GitLab CI, Docker, SQLite, Bash, REST APIs
+
+Let’s build systems that speak for themselves.
