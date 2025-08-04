@@ -26,7 +26,7 @@ My code turns multi-hour processes into automated workflows you can trust and ob
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nigelross44/)
-- Email: ross.nigel44 [at] gmail.com
+- Email: nigel.ross44@gmail.com
 
 ---
 
