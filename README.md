@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Nigel Ross
+# Hi, I'm Nigel Ross
 
 Backend engineer specializing in **high-performance systems**, **infrastructure automation**, and **cloud-native architecture**.  
 I build production systems that turn slow, manual processes into fast, automated workflows with real business impact.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### **[High-Performance File Processor](https://github.com/NTRCodes/high-performance-file-processor)**
 **22x faster than Python baseline** – Production Go system processing 1,400+ files daily
@@ -14,9 +14,9 @@ Rewrote legacy Python file import system in Go, achieving massive performance im
 
 **Impact:**
 - ⚡ 22x performance improvement (109s → 5s per file)
-- 📊 Processes 1,400+ files daily with 700k+ records each
-- ☸️ Production Kubernetes deployment with 99.9% uptime
-- 🔧 Diagnosed and fixed CrashLoopBackOff issues in production
+- Processes 1,400+ files daily with 700k+ records each
+- Production Kubernetes deployment with 99.9% uptime
+- Diagnosed and fixed CrashLoopBackOff issues in production
 
 **Tech:** `Go` · `Kubernetes` · `PostgreSQL` · `Docker` · `S3` · `Concurrent Processing`
 
@@ -28,10 +28,10 @@ RESTful API for member data and processing metrics
 Production API serving member search functionality and collecting processing metrics from the file processing pipeline. Handles 1,000+ requests/minute with sub-100ms response times.
 
 **Features:**
-- 🔍 High-performance member search with indexed queries
-- 📊 Metrics collection and reporting
-- 🔐 JWT authentication and RBAC
-- ☸️ Kubernetes deployment
+- High-performance member search with indexed queries
+- Metrics collection and reporting
+- JWT authentication and RBAC
+- Kubernetes deployment
 
 **Tech:** `Go/Python` · `PostgreSQL` · `REST API` · `Docker` · `Kubernetes`
 
@@ -52,16 +52,16 @@ Event-driven rewrite with webhook support
 Modernizing the batch sync system with real-time webhook processing, Go microservice architecture, and Kubernetes deployment. Transforms monthly batch job into event-driven system.
 
 **Planned:**
-- ⚡ Real-time webhook processing
-- ☸️ Kubernetes pod deployment
-- 📊 Metrics and observability
-- 🔄 Event-driven architecture
+- Real-time webhook processing
+- Kubernetes pod deployment
+- Metrics and observability
+- Event-driven architecture
 
 **Tech:** `Go` · `Webhooks` · `Kubernetes` · `Event-Driven`
 
 ---
 
-## 💼 What I Build
+## What I Build
 
 - **High-performance backend systems** with Go and concurrent processing
 - **Cloud-native applications** deployed on Kubernetes
@@ -74,7 +74,7 @@ Modernizing the batch sync system with real-time webhook processing, Go microser
 
 ---
 
-## 📚 Tech Stack
+## Tech Stack
 
 **Languages:** `Go` · `Python` · `SQL` · `Bash`
 
@@ -86,18 +86,18 @@ Modernizing the batch sync system with real-time webhook processing, Go microser
 
 ---
 
-## 📈 Professional Highlights
+## Professional Highlights
 
-- 🚀 **22x Performance Improvement** – Rewrote Python system in Go
-- ☸️ **Production Kubernetes** – Deployed and maintained cloud-native applications
-- 📊 **Data Processing at Scale** – 1,400+ files daily, 700k+ records per file
-- 🔧 **Problem Solving** – Diagnosed and fixed production CrashLoopBackOff issues
-- 🔄 **System Modernization** – Transforming batch jobs into event-driven microservices
-- 💰 **Business Impact** – Quantifiable cost savings and automation value
+- **22x Performance Improvement** – Rewrote Python system in Go
+- **Production Kubernetes** – Deployed and maintained cloud-native applications
+- **Data Processing at Scale** – 1,400+ files daily, 700k+ records per file
+- **Problem Solving** – Diagnosed and fixed production CrashLoopBackOff issues
+- **System Modernization** – Transforming batch jobs into event-driven microservices
+- **Business Impact** – Quantifiable cost savings and automation value
 
 ---
 
-## 📫 Connect
+## Connect
 
 - **LinkedIn:** [linkedin.com/in/nigelross44](https://www.linkedin.com/in/nigelross44/)
 - **Email:** nigel.ross44@gmail.com
@@ -108,5 +108,5 @@ Modernizing the batch sync system with real-time webhook processing, Go microser
 I'm building toward mastery in backend infrastructure, cloud-native architecture, and high-performance systems.  
 Currently available for **remote contract work** and **freelance opportunities**.
 
-Thanks for visiting! 🚀
+Thanks for visiting!
 
