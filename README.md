@@ -46,21 +46,6 @@ Syncs Meraki network and device data into NetBox using scheduled GitLab CI jobs.
 
 ---
 
-### **[Meraki NetBox Sync v2](https://github.com/NTRCodes/meraki-netbox-sync-v2)** 🚧
-Event-driven rewrite with webhook support
-
-Modernizing the batch sync system with real-time webhook processing, Go microservice architecture, and Kubernetes deployment. Transforms monthly batch job into event-driven system.
-
-**Planned:**
-- Real-time webhook processing
-- Kubernetes pod deployment
-- Metrics and observability
-- Event-driven architecture
-
-**Tech:** `Go` · `Webhooks` · `Kubernetes` · `Event-Driven`
-
----
-
 ## What I Build
 
 - **High-performance backend systems** with Go and concurrent processing
@@ -76,7 +61,7 @@ Modernizing the batch sync system with real-time webhook processing, Go microser
 
 ## Tech Stack
 
-**Languages:** `Go` · `Python` · `SQL` · `Bash`
+**Languages:** `TypeScript` · `Go` · `Python` · `SQL` · `Bash`
 
 **Cloud & DevOps:** `Kubernetes` · `Docker` · `GitLab CI` · `DigitalOcean` · `AWS S3`
 
