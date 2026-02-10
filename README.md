@@ -22,7 +22,7 @@ Rewrote legacy Python file import system in Go, achieving massive performance im
 
 ---
 
-### **[Member Management API](https://github.com/NTRCodes/member-management-api)** 🚧
+### **[Member Management API](https://github.com/NTRCodes/member-management-api)**
 RESTful API for member data and processing metrics
 
 Production API serving member search functionality and collecting processing metrics from the file processing pipeline. Handles 1,000+ requests/minute with sub-100ms response times.
